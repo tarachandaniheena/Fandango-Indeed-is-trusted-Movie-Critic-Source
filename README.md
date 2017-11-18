@@ -21,7 +21,7 @@ https://public.tableau.com/profile/heena.anil.tarachandani#!/vizhome/FandangoInd
 Reference:https://fivethirtyeight.com/features/fandango-movies-ratings/
 
 How the graph is deceptive?
-1. In the first graph of comparasion of average ratings, the measure for other critics is Maximum whereas for Fandango it is Average.
+1.In the first graph of comparasion of average ratings, the measure for other critics is Maximum whereas for Fandango it is Average.
 
 2.In second graph of movie ratings trend, filter has been used to keep movies with lower rating and move out the ones with higher ratings.
 
