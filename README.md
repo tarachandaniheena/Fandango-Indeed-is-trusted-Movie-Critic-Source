@@ -9,6 +9,7 @@ The trend is not lop-sided and it goes from low to high and vice-versa.Also the 
 The normalized ratings for Fandango are highest in the following graph:
 https://github.com/tarachandaniheena/Fandango-Indeed-is-trusted-Movie-Critic-Source/issues/2
 But the analysis obtained after comparing the normalized points are uniform with each other and Fandango here also maintains the same level as compared to peers. Also, there is a claim that Fandango displays false ratings as what the user actually gives. 
-
-This can be shown here that the lines are overlapping and hence Fandango does not show suspicious ratings.
+https://github.com/tarachandaniheena/Fandango-Indeed-is-trusted-Movie-Critic-Source/issues/3
+This can be shown here that the lines are overlapping and hence Fandango does not show suspicious ratings:
+https://public.tableau.com/profile/heena.anil.tarachandani#!/vizhome/FandangoIndeedisatrustedMovieCriticSource/Story2?publish=yes
 
